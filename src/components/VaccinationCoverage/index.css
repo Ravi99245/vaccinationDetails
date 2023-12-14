@@ -1,0 +1,20 @@
+.heading {
+  color: #94a3b8;
+  font-size: 18px;
+}
+
+.coverage-container {
+  font-family: 'Roboto';
+  margin-top: 20px;
+  background-color: #1c1c2b;
+  padding-top: 20px;
+  padding: 15px;
+}
+
+.bar {
+  border-radius: 5px;
+}
+
+.x-axis {
+  font-weight: 500;
+}

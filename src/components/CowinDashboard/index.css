@@ -1,0 +1,63 @@
+.bg-container {
+  background-color: #161625;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 20px;
+  width: 100vw;
+  font-family: 'Roboto';
+}
+
+.content {
+  width: 90%;
+}
+
+.logo {
+  width: 40px;
+}
+
+.name {
+  color: #2cc6c6;
+  font-size: 18px;
+  margin-left: 10px;
+  font-weight: 500;
+}
+
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.description {
+  color: #cbd5e1;
+  font-size: 20px;
+}
+
+.loading-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+}
+
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure-image {
+  width: 50%;
+}
+
+.error-text {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  text-align: center;
+}
